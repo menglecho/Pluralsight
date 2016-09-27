@@ -41,3 +41,7 @@ bool Account::Withdraw(int amt) {
 		return false;
 	}
 }
+
+//int Account::GetBalance() {
+//	return balance;
+//}
